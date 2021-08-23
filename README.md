@@ -1,6 +1,8 @@
 # Frontend Mentor - Order summary component
 
-![Design preview for the Order summary card coding challenge](file:///C:/Users/Acer/Desktop/order-summary-component-main/index.html)
+![Design preview for the Order summary card coding challenge]
+![image](https://user-images.githubusercontent.com/71704493/130455390-e9da353c-8988-40b6-865a-f545e09422f3.png)
+
 
 ## Welcome! 👋
 
